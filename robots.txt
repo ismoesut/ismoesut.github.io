@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ismoesut.github.io/sitemap.html.gz
+Sitemap: https://ismoesut.github.io/app/sitemap.html.gz
+Sitemap: https://ismoesut.github.io/assets/sitemap.html.gz
+Sitemap: https://ismoesut.github.io/css/sitemap.html.gz
+Sitemap: https://ismoesut.github.io/includes/sitemap.html.gz
+Sitemap: https://ismoesut.github.io/item/sitemap.html.gz
+Sitemap: https://ismoesut.github.io/src/sitemap.html.gz
